@@ -22,3 +22,24 @@ My Python script analyses the records to calculate each of the following:
 
 
 - The greatest decrease in losses (date and amount) over the entire period.
+
+## PyPoll
+
+Using a set of poll data, I wrote a Python script that analyses the votes. The dataset is composed of three columns: Voter ID, County, and Candidate. 
+
+The final Python script calculates each of the following:
+
+
+- The total number of votes cast
+
+
+- A complete list of candidates who received votes
+
+
+- The percentage of votes each candidate won
+
+
+- The total number of votes each candidate won
+
+
+- The winner of the election based on popular vote.
